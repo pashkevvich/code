@@ -8,6 +8,8 @@ user = "pashkevvich";
 
 surname = Samarin;
 
+const myBirthDay = '31.08.01';
+
 alert( surname ); // "Samarin"
 
 </script>
