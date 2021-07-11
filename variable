@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<script>
+"use strict";
+
+let user, surname;
+
+user = "pashkevvich";
+
+surname = Samarin;
+
+alert( surname ); // "Samarin"
+
+</script>
