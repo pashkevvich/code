@@ -2,14 +2,12 @@
 <script>
 "use strict";
 
-let user, surname;
+let name , admin ; 
 
-user = "pashkevvich";
+name = "Джон";
 
-surname = "Samarin";
+admin = name;
 
-const myBirthDay = "31.08.01";
-
-alert( surname ); // "Samarin"
+alert( admin ); // "Джон"
 
 </script>
