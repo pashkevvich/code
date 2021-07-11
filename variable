@@ -6,9 +6,9 @@ let user, surname;
 
 user = "pashkevvich";
 
-surname = Samarin;
+surname = "Samarin";
 
-const myBirthDay = '31.08.01';
+const myBirthDay = "31.08.01";
 
 alert( surname ); // "Samarin"
 
