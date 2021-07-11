@@ -2,13 +2,9 @@
 <html>
 <body>
 
- <p>Перед скриптом...</p>
-
   <script>
-    alert( 'Привет, мир!' );
+    alert( 'Hello world' );
   </script>
-
- <p>...После скрипта.</p>
 
 </body>
 </html>
